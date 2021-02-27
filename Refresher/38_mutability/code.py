@@ -11,3 +11,7 @@ b.append("b")
 
 print(a)
 print(b)
+
+# in python most values are mutable.
+
+# tuples, strings, integers and booleans are no mutable.
